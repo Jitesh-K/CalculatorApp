@@ -1,0 +1,14 @@
+C:\Users\VICKY\Documents\Visual Studio 2015\Projects\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe.config
+C:\Users\VICKY\Documents\Visual Studio 2015\Projects\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe
+C:\Users\VICKY\Documents\Visual Studio 2015\Projects\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.pdb
+C:\Users\VICKY\Documents\Visual Studio 2015\Projects\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csprojResolveAssemblyReference.cache
+C:\Users\VICKY\Documents\Visual Studio 2015\Projects\CalculatorApp\CalculatorApp\obj\Debug\MainWindow.g.cs
+C:\Users\VICKY\Documents\Visual Studio 2015\Projects\CalculatorApp\CalculatorApp\obj\Debug\App.g.cs
+C:\Users\VICKY\Documents\Visual Studio 2015\Projects\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp_MarkupCompile.cache
+C:\Users\VICKY\Documents\Visual Studio 2015\Projects\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp_MarkupCompile.lref
+C:\Users\VICKY\Documents\Visual Studio 2015\Projects\CalculatorApp\CalculatorApp\obj\Debug\MainWindow.baml
+C:\Users\VICKY\Documents\Visual Studio 2015\Projects\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.g.resources
+C:\Users\VICKY\Documents\Visual Studio 2015\Projects\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.Properties.Resources.resources
+C:\Users\VICKY\Documents\Visual Studio 2015\Projects\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.GenerateResource.Cache
+C:\Users\VICKY\Documents\Visual Studio 2015\Projects\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.exe
+C:\Users\VICKY\Documents\Visual Studio 2015\Projects\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.pdb
